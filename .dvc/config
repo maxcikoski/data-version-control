@@ -1,5 +1,7 @@
 [core]
     analytics = false
     remote = remote_storage
+[cache]
+    dir = /home/Max/dvc_shared_cache
 ['remote "remote_storage"']
     url = /home/Max/dvc_remote
